@@ -1,0 +1,1 @@
+In this task i done a code for CALLBACK HELL function using setTimeout method
